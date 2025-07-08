@@ -58,3 +58,10 @@ const totop=document.querySelector('.to-top');
       totop.classList.remove("active");
     }
   })
+
+
+  // 400px is the standard screen size of the pc 
+
+  // new tag for dropdown <summary/> and <details/>
+
+  // diallog tag is use for popup models

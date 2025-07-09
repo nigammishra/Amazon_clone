@@ -65,3 +65,5 @@ const totop=document.querySelector('.to-top');
   // new tag for dropdown <summary/> and <details/>
 
   // diallog tag is use for popup models
+
+  // blockquote is use for summarize the topic and add 
